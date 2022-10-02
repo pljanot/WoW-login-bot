@@ -1,8 +1,8 @@
-login = account_name
-password = password
-acc = dd
-server = shazzrah
-WOW_PATH = C:\\Program Files (x86)\\World of Warcraft\\_classic_\\Wow.exe
+login = #YOUR LOGIN WOW
+password = #YOUR PASSWORD WOW
+acc = #YOUR ACCOUNT NAME
+server = Gehennas
+WOW_PATH = C:\\World of Warcraft\\_classic_\\WowClassic.exe
 TES_PATH = C:\\Program Files\\Tesseract-OCR\\tesseract.exe
 MINDELAY = 50
 MAXDELAY = 200
